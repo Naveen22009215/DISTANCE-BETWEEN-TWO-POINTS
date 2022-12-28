@@ -28,4 +28,4 @@ print("{:.2f}".format(dist))
 
 
 ### RESULT:
-the python program of finding distance btwn 2 points executed successfully
+thus the python program of finding distance btwn 2 points executed successfully
