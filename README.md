@@ -22,7 +22,8 @@ print("{:.2f}".format(dist))
 ```
   
 ### OUTPUT:
-![circulate](/output3.png)
+![dist](/output3.png)
 
 
 ### RESULT:
+thus the the distance between two points is executed successfully
